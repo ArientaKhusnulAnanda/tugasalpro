@@ -1,0 +1,7 @@
+Pertanyaan:
+1. Judul Tubes masing-masing kelompok.
+2. Metode yang diambil, studi kasus, Menunjukkan kode (CBL) dan data (Normalisasi_tekanan_udara).
+3. Video itu pilihan atau bukan (bisa ppt, video, atau yang lain). Jika iya itu berisikan penjelasan infografis atau diskusi.
+4. Rumus matematis (P value, T value, T kritis, Normalitas) dan jawabannya.
+5. Menunjukkan infografis dan PPT.
+6. Solusi jika banyak revisi nya.

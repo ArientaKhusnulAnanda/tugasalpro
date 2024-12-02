@@ -1,0 +1,10 @@
+Apa saja yang mau dibuat dan dimasukkan kedalam infografis:
+1. nilai rata=rata setiap tahun
+2. Buat Grafik normal
+3. Gunakan diagram batang (bar plot) berdampingan untuk setiap bulan agar audiens mudah membandingkan nilai 2022 dan 2023 secara langsung.
+4. Tampilkan daerah kritis di grafik distribusi normal dengan warna atau shading, sehingga audiens dapat langsung melihat di mana hasil uji Anda berada.
+5. Tambahkan titik atau garis vertikal pada grafik distribusi normal yang menunjukkan posisi Z hitung.
+6. Buat hipotesis, statistika uji, keputusan, dan kesimpulan
+7. Penjelasan singkat
+8. Heatmap
+9. Sorot bulan yang hasilnya signifikan dengan warna berbeda, baik di grafik maupun tabel.
